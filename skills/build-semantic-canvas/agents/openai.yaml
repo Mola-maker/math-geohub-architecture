@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build Semantic Canvas"
+  short_description: "Design one-truth interactive visual editors"
+  default_prompt: "Design a source-authoritative semantic canvas architecture for this editor."

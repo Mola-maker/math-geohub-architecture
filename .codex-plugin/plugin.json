@@ -1,0 +1,42 @@
+{
+  "name": "math-geohub-architecture",
+  "version": "1.0.0",
+  "description": "Design and audit semantic canvases, guarded agent writes, and dual-render pipelines using the architecture principles developed in Math GeoHub.",
+  "author": {
+    "name": "Mola-maker",
+    "email": "2249464964@qq.com",
+    "url": "https://github.com/Mola-maker"
+  },
+  "homepage": "https://mola-maker.github.io/math-geohub-architecture/",
+  "repository": "https://github.com/Mola-maker/math-geohub-architecture",
+  "license": "MIT",
+  "keywords": [
+    "agent-architecture",
+    "semantic-canvas",
+    "geometry",
+    "transaction-broker",
+    "dual-renderer"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Math GeoHub Architecture",
+    "shortDescription": "Build trustworthy AI-native semantic canvases",
+    "longDescription": "Three reusable architecture skills for source-authoritative visual editors: lossless semantic projections, guarded agent mutation protocols, and responsive plus exact dual-render pipelines.",
+    "developerName": "Mola-maker",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Architecture",
+      "Review",
+      "Planning"
+    ],
+    "websiteURL": "https://mola-maker.github.io/math-geohub-architecture/",
+    "privacyPolicyURL": "https://mola-maker.github.io/math-geohub-architecture/privacy",
+    "termsOfServiceURL": "https://mola-maker.github.io/math-geohub-architecture/terms",
+    "defaultPrompt": [
+      "Design a source-authoritative semantic canvas for my visual editor.",
+      "Audit this AI-assisted editor for stale writes and false success states.",
+      "Plan a low-latency interactive renderer with a separately attested exact renderer."
+    ],
+    "brandColor": "#1447E6"
+  }
+}

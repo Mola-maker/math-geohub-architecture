@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Math GeoHub Architecture</title>
+  <desc id="desc">A geometric construction graph over a blueprint field.</desc>
+  <defs>
+    <linearGradient id="field" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#08245f"/>
+      <stop offset="1" stop-color="#1767e8"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="44%" r="55%">
+      <stop offset="0" stop-color="#7ff8ff" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#7ff8ff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#field)"/>
+  <circle cx="256" cy="226" r="186" fill="url(#glow)"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M110 362 226 104l176 258Z" stroke="#c8fbff" stroke-width="18"/>
+    <circle cx="250" cy="248" r="112" stroke="#64f1ff" stroke-width="12" opacity=".9"/>
+    <path d="m110 362 292-258M226 104l176 258" stroke="#8cd9ff" stroke-width="8" opacity=".72"/>
+  </g>
+  <g fill="#fff" stroke="#0b3f96" stroke-width="8">
+    <circle cx="226" cy="104" r="20"/>
+    <circle cx="110" cy="362" r="20"/>
+    <circle cx="402" cy="362" r="20"/>
+    <circle cx="250" cy="248" r="22" fill="#62f5ff"/>
+  </g>
+</svg>

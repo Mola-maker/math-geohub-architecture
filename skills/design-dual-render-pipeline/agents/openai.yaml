@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design Dual Render Pipeline"
+  short_description: "Separate responsive and exact rendering"
+  default_prompt: "Design a responsive interactive renderer with a separately attested exact pipeline."

@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "math-geohub",
+  "owner": {
+    "name": "Mola-maker",
+    "email": "2249464964@qq.com"
+  },
+  "metadata": {
+    "description": "Portable architecture skills derived from Math GeoHub."
+  },
+  "plugins": [
+    {
+      "name": "math-geohub-architecture",
+      "source": "./",
+      "description": "Semantic canvas, guarded agent write, and dual-render architecture skills.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Mola-maker",
+        "email": "2249464964@qq.com"
+      },
+      "homepage": "https://mola-maker.github.io/math-geohub-architecture/",
+      "repository": "https://github.com/Mola-maker/math-geohub-architecture",
+      "license": "MIT",
+      "category": "Developer Tools",
+      "tags": [
+        "architecture",
+        "agents",
+        "canvas",
+        "geometry"
+      ]
+    }
+  ]
+}

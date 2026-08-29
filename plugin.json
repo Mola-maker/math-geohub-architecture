@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "math-geohub-architecture",
+  "version": "1.0.0",
+  "description": "Portable architecture skills for semantic canvases, guarded agent writes, and dual-render pipelines.",
+  "author": {
+    "name": "Mola-maker",
+    "email": "2249464964@qq.com",
+    "url": "https://github.com/Mola-maker"
+  },
+  "homepage": "https://mola-maker.github.io/math-geohub-architecture/",
+  "repository": "https://github.com/Mola-maker/math-geohub-architecture",
+  "license": "MIT",
+  "keywords": [
+    "agent-architecture",
+    "semantic-canvas",
+    "geometry",
+    "transaction-broker",
+    "dual-renderer"
+  ]
+}

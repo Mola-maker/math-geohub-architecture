@@ -1,0 +1,4 @@
+interface:
+  display_name: "Guard Agentic Canvas Writes"
+  short_description: "Make AI document mutations safe and auditable"
+  default_prompt: "Audit this agentic editor write path for stale authority, unsafe mutation, and false success."
