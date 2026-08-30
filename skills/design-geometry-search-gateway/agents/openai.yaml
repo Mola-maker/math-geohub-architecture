@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design Geometry Search Gateway"
+  short_description: "Design bounded multi-source geometry gateways"
+  default_prompt: "Use $design-geometry-search-gateway to audit this search gateway for adapter, provenance, budget, and admission boundaries."

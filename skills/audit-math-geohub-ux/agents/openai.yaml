@@ -1,0 +1,4 @@
+interface:
+  display_name: "Audit Math GeoHub UX"
+  short_description: "Audit GeoHub journeys, recovery, access, and speed"
+  default_prompt: "Use $audit-math-geohub-ux to audit this GeoHub journey with browser-visible accessibility, recovery, responsive, and performance evidence."

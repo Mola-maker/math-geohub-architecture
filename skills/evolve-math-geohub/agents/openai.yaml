@@ -1,0 +1,4 @@
+interface:
+  display_name: "Evolve Math GeoHub"
+  short_description: "Keep GeoHub architecture cohesive and reusable"
+  default_prompt: "Use $evolve-math-geohub to plan this change around GeoHub owners, reuse seams, and migration gates."

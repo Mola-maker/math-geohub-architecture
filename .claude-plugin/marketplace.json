@@ -6,14 +6,14 @@
     "email": "2249464964@qq.com"
   },
   "metadata": {
-    "description": "Portable architecture skills derived from Math GeoHub."
+    "description": "Portable engineering skills derived from Math GeoHub."
   },
   "plugins": [
     {
       "name": "math-geohub-architecture",
       "source": "./",
-      "description": "Semantic canvas, guarded agent write, and dual-render architecture skills.",
-      "version": "1.0.0",
+      "description": "Math GeoHub architecture, agent, research, gateway, verification, and UX skills.",
+      "version": "1.1.0",
       "author": {
         "name": "Mola-maker",
         "email": "2249464964@qq.com"
@@ -26,7 +26,10 @@
         "architecture",
         "agents",
         "canvas",
-        "geometry"
+        "geometry",
+        "research",
+        "gateway",
+        "user-experience"
       ]
     }
   ]

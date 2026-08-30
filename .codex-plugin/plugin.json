@@ -1,7 +1,7 @@
 {
   "name": "math-geohub-architecture",
-  "version": "1.0.0",
-  "description": "Design and audit semantic canvases, guarded agent writes, and dual-render pipelines using the architecture principles developed in Math GeoHub.",
+  "version": "1.1.0",
+  "description": "Design and audit Math GeoHub canvases, agent writes, reuse, research, gateways, verification, and UX.",
   "author": {
     "name": "Mola-maker",
     "email": "2249464964@qq.com",
@@ -15,28 +15,39 @@
     "semantic-canvas",
     "geometry",
     "transaction-broker",
-    "dual-renderer"
+    "dual-renderer",
+    "code-reuse",
+    "research-provenance",
+    "search-gateway",
+    "user-experience"
   ],
   "skills": "./skills/",
   "interface": {
     "displayName": "Math GeoHub Architecture",
-    "shortDescription": "Build trustworthy AI-native semantic canvases",
-    "longDescription": "Three reusable architecture skills for source-authoritative visual editors: lossless semantic projections, guarded agent mutation protocols, and responsive plus exact dual-render pipelines.",
+    "shortDescription": "GeoHub engineering workflows",
+    "longDescription": "Eight engineering skills for semantic canvases, guarded agent mutations, dual rendering, architecture and reuse, evidence-led research, bounded search gateways, verification, and user experience.",
     "developerName": "Mola-maker",
     "category": "Developer Tools",
     "capabilities": [
-      "Architecture",
-      "Review",
-      "Planning"
+      "Semantic canvas architecture",
+      "Guarded agent mutations",
+      "Dual render pipelines",
+      "Architecture and reuse review",
+      "Evidence-led geometry research",
+      "Multi-source search gateways",
+      "User journey audits",
+      "Authorization-aware verification"
     ],
     "websiteURL": "https://mola-maker.github.io/math-geohub-architecture/",
     "privacyPolicyURL": "https://mola-maker.github.io/math-geohub-architecture/privacy",
     "termsOfServiceURL": "https://mola-maker.github.io/math-geohub-architecture/terms",
     "defaultPrompt": [
-      "Design a source-authoritative semantic canvas for my visual editor.",
-      "Audit this AI-assisted editor for stale writes and false success states.",
-      "Plan a low-latency interactive renderer with a separately attested exact renderer."
+      "Design and review a source-authoritative semantic canvas architecture for this visual editor.",
+      "Research this geometry capability and design a bounded multi-source search gateway.",
+      "Audit this GeoHub change for safe agent writes, user experience, and verification evidence."
     ],
-    "brandColor": "#1447E6"
+    "brandColor": "#1447E6",
+    "composerIcon": "./assets/logo.svg",
+    "logo": "./assets/logo.svg"
   }
 }

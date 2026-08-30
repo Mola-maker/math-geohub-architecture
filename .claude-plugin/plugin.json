@@ -2,8 +2,8 @@
   "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
   "name": "math-geohub-architecture",
   "displayName": "Math GeoHub Architecture",
-  "version": "1.0.0",
-  "description": "Design and audit source-authoritative semantic canvases, guarded agent writes, and dual-render pipelines.",
+  "version": "1.1.0",
+  "description": "Design and audit Math GeoHub canvases, agents, reuse, research, gateways, verification, and UX.",
   "author": {
     "name": "Mola-maker",
     "email": "2249464964@qq.com"
@@ -15,6 +15,10 @@
     "agent-architecture",
     "semantic-canvas",
     "geometry",
-    "dual-renderer"
+    "dual-renderer",
+    "code-reuse",
+    "research-provenance",
+    "search-gateway",
+    "user-experience"
   ]
 }

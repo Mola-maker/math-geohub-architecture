@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Geometry Evidence"
+  short_description: "Research math geometry with a reproducible ledger"
+  default_prompt: "Use $research-geometry-evidence to investigate this geometry question across primary sources and record a reproducible evidence ledger."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Verify Math GeoHub Change"
+  short_description: "Choose truthful evidence gates for GeoHub changes"
+  default_prompt: "Use $verify-math-geohub-change to define and report the evidence required for this GeoHub change."
